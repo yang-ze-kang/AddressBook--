@@ -1,0 +1,36 @@
+E:\myprojects\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+E:\myprojects\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+E:\myprojects\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+E:\myprojects\AddressBook\AddressBook\obj\Debug\AddressBook.csprojAssemblyReference.cache
+E:\myprojects\AddressBook\AddressBook\obj\Debug\AddressBook.Form1.resources
+E:\myprojects\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+E:\myprojects\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.cache
+E:\myprojects\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+E:\myprojects\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
+E:\myprojects\AddressBook\AddressBook\obj\Debug\AddressBook.Form2.resources
+E:\myprojects\AddressBook\AddressBook\obj\Debug\AddressBook.Form3.resources
+E:\myprojects\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+E:\myprojects\AddressBook - 副本\AddressBook\bin\Debug\AddressBook.exe.config
+E:\myprojects\AddressBook - 副本\AddressBook\bin\Debug\AddressBook.exe
+E:\myprojects\AddressBook - 副本\AddressBook\bin\Debug\AddressBook.pdb
+E:\myprojects\AddressBook - 副本\AddressBook\obj\Debug\AddressBook.csprojAssemblyReference.cache
+E:\myprojects\AddressBook - 副本\AddressBook\obj\Debug\AddressBook.Form1.resources
+E:\myprojects\AddressBook - 副本\AddressBook\obj\Debug\AddressBook.Form2.resources
+E:\myprojects\AddressBook - 副本\AddressBook\obj\Debug\AddressBook.Form3.resources
+E:\myprojects\AddressBook - 副本\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+E:\myprojects\AddressBook - 副本\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.cache
+E:\myprojects\AddressBook - 副本\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+E:\myprojects\AddressBook - 副本\AddressBook\obj\Debug\AddressBook.exe
+E:\myprojects\AddressBook - 副本\AddressBook\obj\Debug\AddressBook.pdb
+E:\myprojects\AddressBook-加密版\AddressBook\obj\Debug\AddressBook.csprojAssemblyReference.cache
+E:\myprojects\AddressBook-加密版\AddressBook\obj\Debug\AddressBook.Form1.resources
+E:\myprojects\AddressBook-加密版\AddressBook\obj\Debug\AddressBook.Form2.resources
+E:\myprojects\AddressBook-加密版\AddressBook\obj\Debug\AddressBook.Form3.resources
+E:\myprojects\AddressBook-加密版\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+E:\myprojects\AddressBook-加密版\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.cache
+E:\myprojects\AddressBook-加密版\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+E:\myprojects\AddressBook-加密版\AddressBook\obj\Debug\AddressBook.exe
+E:\myprojects\AddressBook-加密版\AddressBook\obj\Debug\AddressBook.pdb
+E:\myprojects\AddressBook-加密版\AddressBook\bin\Debug\AddressBook.exe.config
+E:\myprojects\AddressBook-加密版\AddressBook\bin\Debug\AddressBook.exe
+E:\myprojects\AddressBook-加密版\AddressBook\bin\Debug\AddressBook.pdb
